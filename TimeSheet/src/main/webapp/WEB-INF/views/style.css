@@ -1,0 +1,39 @@
+.first{
+    color: rgb(38, 117, 186);
+    width:33%;
+    height:100%;
+    float:left;
+    text-align:center;
+}
+.second{
+
+    width:33%;
+    height:100%;
+    float:left;
+    text-align:center;
+    padding-top: 5%;
+    padding-bottom: 12%;
+
+
+}
+.third{
+    color: rgb(28, 201, 106);
+    width:33%;
+    height:100%;
+    float:left;
+    text-align:center;
+
+}
+.profile{
+    width:40%;
+    height:90%;
+    border:2px rgb(16, 9, 9) solid;
+    border-radius: 25px;
+}
+.look{
+   width:70%;
+   height:8%;
+   padding-top: 16px;
+   margin: auto;
+   
+}
